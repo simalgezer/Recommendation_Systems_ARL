@@ -14,7 +14,7 @@ User 3 product id: 22747
 Make the most suitable product suggestion for this basket information.
 Derive the decision rules from 2010–2011 German customers.
 
-Data Set: The dataset named Online Retail II includes the sales of a UK-based online store between 01/12/2009–09/12/2011. The product catalog of this company includes souvenirs. They can also be considered promotional items. There is also information that most of its customers are wholesalers.
+Data Set, https://archive.ics.uci.edu/ml/datasets/Online+Retail+II: The dataset named Online Retail II includes the sales of a UK-based online store between 01/12/2009–09/12/2011. The product catalog of this company includes souvenirs. They can also be considered promotional items. There is also information that most of its customers are wholesalers.
 
 Variables:
 1. InvoiceNo — Invoice Number: If this code starts with C, it means that the operation has been canceled
